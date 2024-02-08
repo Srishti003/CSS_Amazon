@@ -110,6 +110,82 @@ span{
     font-weight:bold;
 
 }
+.panel{
+    background-color: #222f3d;
+    height:40px;
+    color:white;
+    display:flex;
+    justify-content:start;
+    align-items:center;
+}
+.text{
+    display:flex;
+    margin-left: 10px;
+    font-size:15px;
+}
+p{
+    margin-left:10px
+}
+.icon i{
+    font-size:17px;
+}
+.icon{
+    margin-left:20px;
+    margin-right:5px;
+}
+.icon-all{
+    display:flex;
+    
+}
+.hero-section{
+    background-image: url("hero_image.jpg");
+    background-size: cover;
+    height:600px;
+    display:flex;
+    justify-content: center;
+    align-items: end;
+    
+}
+.hero-msg{
+    
+    height:35px;
+    background-color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 300px;
+    width:96%;
+}
+.box{
+    border:2px solid black;
+    height:400px;
+    width:23%;
+    background-color: white;
+    padding:20px 0px 15px;
+    
+    
+}
+.box1{
+     background-image: url("box1_image.jpg");
+}
+.box2{
+    background-image: url("box2_image.jpg");
+ 
+}
+.box3{
+    background-image: url("box3_image.jpg");
+
+}
+.box4{
+    background-image: url("box4_image.jpg");
+
+}
+.shop-section{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+
 
 
     
